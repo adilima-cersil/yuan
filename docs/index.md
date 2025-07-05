@@ -1,5 +1,5 @@
 ---
-layout: w3-base
+layout: home
 title: Yuan Dynasty Stories
 ---
 
